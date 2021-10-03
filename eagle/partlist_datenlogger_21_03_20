@@ -1,0 +1,85 @@
+Partlist
+
+Exported from rub-20-datalogger-schaltplan.brd at 21.03.2020 09:52
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                  Package                Library                                Position (mil)        Orientation
+
+C1       22u                    C1812K                 rcl                                    (2050 1350)           R270
+C2       0.33u                  C0805                  rcl                                    (2050 1600)           R90
+C3       0.1u                   C0805                  rcl                                    (2200 1100)           R270
+C4       0.1u                   C0805                  rcl                                    (2479.80007 1195.60015) R270
+C5       10UF                   CAPAE430X610N          Panasonic-EEEFK_EEEFP                  (2650 700)            R0
+C6       4.7u                   C0805                  rcl                                    (1552.99988 -220.39985) R180
+C7       0.1u                   C0805                  rcl                                    (1552.99988 -120.39985) R180
+C8       0.1u                   C0805                  rcl                                    (1552.99988 -20.39985) R180
+C9       0.1                    C0805                  rcl                                    (1552.99988 79.60015) R180
+C10      0.1                    C0805                  rcl                                    (1900 -150)           R270
+C11      0.1                    C0805                  rcl                                    (2407.20005 121.20005) R0
+C12      2.2u                   C0805                  rcl                                    (2381.19993 450.60002) R90
+C13      2.2u                   C0805                  rcl                                    (1808.60002 615.80007) R180
+C14      10n                    C0805                  rcl                                    (1800 -150)           R270
+C15      1u                     C0805                  rcl                                    (1700 -150)           R270
+C16      0.1u                   C0805                  rcl                                    (2350 -350)           R0
+C17      20p                    C0805                  rcl                                    (2200 -150)           R270
+C18      20p                    C0805                  rcl                                    (2105.19993 -150.39998) R270
+C19      0.1u                   C0805                  rcl                                    (2362.79995 1195)     R270
+C20      0.1u                   C0805                  rcl                                    (1550.39998 200)      R0
+C24      1n                     C0805                  rcl                                    (835.60002 363.39998) R180
+C25      100n                   C0805                  rcl                                    (3150 1050)           R270
+C26      1n                     C0805                  rcl                                    (1047.20005 100)      R270
+C27      1n                     C0805                  rcl                                    (1332.20005 -110.39998) R0
+C28      1n                     C0805                  rcl                                    (1330.20005 -206.79995) R0
+D1       SMAJ22                 SMA-DO214AC            RUBM_PARTS                             (1900 1250)           R90
+D2       SK36SMA                DO214AC                RUBM_PARTS                             (850 1300)            R270
+IC1      STM32F405RG            LQFP64                 RUBM_PARTS                             (2000 250)            R90
+IC3      MCP2551                8SO                    RUBM_PARTS                             (1900 900)            R0
+JP1                             JP2                    jumper                                 (1050 700)            R180
+JP2                             JP2                    jumper                                 (700 150)             R180
+JP3                             JP2                    jumper                                 (1405 -575)           R180
+JP4                             JP2                    jumper                                 (1050 -450)           R270
+JP5                             JP2                    jumper                                 (1600 750)            R0
+K1       IRLML62244             SOT23-MICRO            RUBM_PARTS                             (1600 1150)           R90
+K2       IRLML62244             SOT23-MICRO            RUBM_PARTS                             (1350 1150)           R90
+K3       IRLML62244             SOT23-MICRO            RUBM_PARTS                             (1100 1150)           R90
+L1       LPS6235                LPS6235                RUBM_PARTS                             (850 1600)            R90
+P1       XLAMP_ML-E             CREE_XLAMP_ML-E        RUBM_PARTS                             (1600 1400)           R180
+P2       XLAMP_ML-E             CREE_XLAMP_ML-E        RUBM_PARTS                             (1350 1400)           R180
+P3       XLAMP_ML-E             CREE_XLAMP_ML-E        RUBM_PARTS                             (1100 1400)           R180
+R1       0                      R0805                  rcl                                    (2350 -150)           R270
+R2       0                      R0805                  rcl                                    (1650 500)            R270
+R5       10k                    R0805                  rcl                                    (1400 500)            R270
+R6       10k                    R0805                  rcl                                    (1500 500)            R270
+R7       10k                    R0805                  rcl                                    (885 515)             R180
+R8       1k                     R0805                  rcl                                    (1015 365)            R270
+R9       3.3k                   R0805                  rcl                                    (2700 900)            R180
+R10      3.3k                   R0805                  rcl                                    (2800 400)            R180
+R11      3.3k                   R0805                  rcl                                    (3355.39998 651.4001) R0
+R12      3.3k                   R0805                  rcl                                    (3350 800)            R0
+R13      10k                    R0805                  rcl                                    (3350 950)            R180
+R14      10k                    R0805                  rcl                                    (950 -100)            R270
+R15      1k                     R0805                  rcl                                    (950 100)             R90
+R16      10k                    R0805                  rcl                                    (1350 50)             R90
+R17      1k                     R0805                  rcl                                    (1200 0)              R270
+R18      10k                    R0805                  rcl                                    (1350 -345)           R270
+R19      1k                     R0805                  rcl                                    (1200 -205)           R90
+R20      48,7                   R0805                  rcl                                    (1600 1650)           R270
+R21      48,7                   R0805                  rcl                                    (1350 1650)           R270
+R22      48,7                   R0805                  rcl                                    (1100 1650)           R270
+R23      200                    R0805                  rcl                                    (1600 950)            R270
+R24      200                    R0805                  rcl                                    (1350 950)            R270
+R25      200                    R0805                  rcl                                    (1100 950)            R270
+S1       KSE-M-31-G             KSE-M-31-G             RUBM_PARTS                             (2550 -600)           R180
+SV1                             MA05-1                 con-lstb                               (1950 -800)           R0
+SV2                             MA04-1                 con-lstb                               (3100 -450)           R0
+U$1      14_POS_RIGHT_ANGLE_HDR 14_POS_RIGHT_ANGLE_HDR TE                                     (295 445)             R270
+U$2      MICROSD-PUSH-OUT       MICROSD-PUSH-OUT       microsd                                (3295 1280)           R180
+U1       UA78M05CDCY            SOT230P700X180-4N      RUBM_PARTS                             (2350 1550)           R0
+U2       LM2937IMP-3.3/NOPB     SOT230P700X180-4N      RUBM_PARTS                             (2300 800)            R90
+U3       FOX_SDLF               HC49SSDLF              RUBM_PARTS                             (1950 -450)           R0
+U4       ADS1115IDGST           SOP50P490X110-10N      Texas Instruments_By_element14_Batch_1 (1300 300)            R0
+U5       74ABT125D              SOIC127P600X175-14N    NXP_By_element14_Batch_1               (3000 750)            R0
+U6       GY-521MPU6050          GY-521                 gy-521_holes                           (2900 -150)           R270
